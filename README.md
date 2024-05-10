@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SophiaKevwe.
-- 👀 I’m interested in programming languages, data analysis and coding practices. I have a knowledge of c programming, sql, c#, visual basic, python and c++. 
-- 🌱 I’m currently learning data analysis with python, artificial intelligence, machine learning and java script.
-- 💞️ I’m looking to collaborate on new coding ideas, developments and work opportunities.
+- 👀 I’m interested in data science, data analysis, AI and machine learning. I have a knowledge of machine learning modelling, SQL, python and data visualization tools. 
+- 🌱 I’m currently learning MongoDB, data visualization with Power BI and working on projects related to Machine Learning and AI.
+- 💞️ I’m looking to collaborate on new coding projects, developments and work opportunities.
 - 📫 You can reach me through my mail: oghenekes73@gmail.com.       
 - Twitter: @KaaySophia.    
 - LinkedIn: https://www.linkedin.com/in/oghenekevwe-sophia-umukoro-632433229.
