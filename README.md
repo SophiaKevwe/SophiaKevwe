@@ -14,10 +14,10 @@
     </tr>
     <tr>
         <td>
-            <a href="https://colinbut.github.io/">🌐</a>
+            <a href="https://sophiakevwe.github.io/">🌐</a>
         </td>
         <td>
-            <a href="https://colinbut.github.io/online-resume">📃</a>
+            <a href="https://sophiakevwe.github.io/online-resume">📃</a>
         </td>
     </tr>
 </table>
