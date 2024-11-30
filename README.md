@@ -1,8 +1,8 @@
 # 👋Hello, I'm Sophia Umukoro!
 
 ### Data Scientist/Data Analyst/AI Engineer
-- 🔭 I’m currently working on: __Clustering and Natural Language Processing (NLP) projects__ 
-- 🌱 I’m currently learning: __Artificial Intelligence Engineering as a Master's degree__
+- 🔭 I’m currently working on: __Data Engineering and Natural Language Processing (NLP) projects__ 
+- 🌱 I’m currently learning: __Artificial Intelligence as a Master's degree__
 - 💬 Ask me about __Data Science, Machine Learning, Artificial Intelligence (NLP & Computer Vision), Data Analytics, Web scraping, Database Management, Data Cleaning and Visualization...__
 <br/>
 
@@ -17,7 +17,7 @@
             <a href="https://sophiakevwe.github.io/">🌐</a>
         </td>
         <td>
-            <a href="https://sophiakevwe.github.io/online-resume">📃</a>
+            <a href="https://drive.google.com/file/d/13A3EqXk0ixNqqsCQpXojCIuzikK7bhQw/view?usp=sharing">📃</a>
         </td>
     </tr>
 </table>
