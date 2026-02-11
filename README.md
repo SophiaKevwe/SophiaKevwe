@@ -1,8 +1,8 @@
 # 👋Hello, I'm Sophia Umukoro!
 
-### Data Scientist/Data Analyst/AI Engineer
+### Data Scientist/Data Analyst
 - 🔭 I’m currently working on: __Data Engineering and Natural Language Processing (NLP) projects__ 
-- 🌱 I’m currently learning: __Data Science as a Master's degree__
+- 🌱 I’m currently learning: __Computer Science as a Master's degree__
 - 💬 Ask me about __Data Science, Machine Learning, Artificial Intelligence (NLP & Computer Vision), Data Analytics, Web scraping, Database Management, Data Cleaning and Visualization...__
 <br/>
 
